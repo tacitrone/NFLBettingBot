@@ -59,5 +59,3 @@ DraftKings   | Away ML| Buffalo Bills        | +120  | 0.47      | 2.1   | 5.0
 ## ⚠️ Disclaimer
 This tool is for educational and research purposes only. It is not financial advice. Always gamble responsibly.  
 
-## 📜 License
-MIT License. See LICENSE file for details.
